@@ -70,7 +70,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) web application that allows
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Karmugil0131/Event-management-assignment-bellcorp
 cd BellCorp-Event-App
 ```
 
@@ -165,4 +165,5 @@ This project showcases a production-ready event management workflow with:
 - Clean frontend-backend separation
 - Scalable architecture design
 - Real-world event registration logic
+
 
